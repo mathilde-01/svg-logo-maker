@@ -1,4 +1,7 @@
 # svg-logo-maker
+![Alt text](./logo.svg)  
+<img src="./logo.svg">  
+
 
 ## Description
 This application allows the user to generate a logo while choosing its color, shape and text display, and save the generated SVG to a `.svg` file.  

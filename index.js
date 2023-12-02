@@ -37,7 +37,7 @@ function promptQuestions() {
         promptQuestions();
       }
       if (answers.shape == "Circle") {
-        // Calling write file function to generate SVG file
+        // Calling write file method to generate SVG file
         fs.writeFileSync(
           "./dist/logo.svg",
           `
@@ -52,7 +52,7 @@ function promptQuestions() {
         );
       }
       if (answers.shape == "Triangle") {
-        // Calling write file function to generate SVG file
+        // Calling write file method to generate SVG file
         fs.writeFileSync(
           "./dist/logo.svg",
           `
@@ -67,7 +67,7 @@ function promptQuestions() {
         );
       }
       if (answers.shape == "Square") {
-        // Calling write file function to generate SVG file
+        // Calling write file method to generate SVG file
         fs.writeFileSync(
           "./dist/logo.svg",
           `
@@ -85,5 +85,5 @@ function promptQuestions() {
     });
 }
 
-// Calling promptUser function so inquirer prompts fire off when application is ran
+// Calling prompQuestions function to trigger Inquirer prompts when the application is executed.
 promptQuestions();

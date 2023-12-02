@@ -28,7 +28,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 
 ## Link to walkthrough video
-
+[Walkthrough video](https://youtu.be/L2DQAC7YkRA)
 
 ## Credits
 [Bootcampsot](https://bootcampspot.instructure.com/courses/4347/assignments/62229?module_item_id=1081754)  

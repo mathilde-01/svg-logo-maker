@@ -1,6 +1,6 @@
 # svg-logo-maker
-![Alt text](./logo.svg)  
-<img src="./logo.svg">  
+![Logo sample](http://127.0.0.1:5500/dist/logo.svgg)  
+<img src="http://127.0.0.1:5500/dist/logo.svg">  
 
 
 ## Description

@@ -1,5 +1,7 @@
 # svg-logo-maker
 
+## Description
+This application allows the user to generate a logo while choosing its color, shape and text display, and save the generated SVG to a `.svg` file.  
 
 ## User Story
 AS a freelance web developer   
@@ -25,3 +27,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 
 ## Link to walkthrough video
+
+
+## Credits
+[Bootcampsot](https://bootcampspot.instructure.com/courses/4347/assignments/62229?module_item_id=1081754)  

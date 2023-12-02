@@ -87,27 +87,3 @@ function promptQuestions() {
 
 // Calling promptUser function so inquirer prompts fire off when application is ran
 promptQuestions();
-
-//   // Function writeToFile
-//   function writeToFile(fileName, answers) {
-//     fs.writeFile(fileName, data, (err) => {
-//       err ? console.error(err) : console.log("Your SVG file was created");
-//     });
-//   }
-
-//   // Function to initialize app
-// function init() {
-//     inquirer
-//       .prompt(questions)
-//       .then((answers) => {
-//       //   console.log(answers);
-//         const readmeContent = generateMarkdown(answers);
-//         writeToFile("README.md", readmeContent);
-//       })
-//       .catch((error) => {
-//         console.error(error);
-//       });
-//   }
-
-// Function call to initialize app
-// init();
